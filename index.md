@@ -1,8 +1,5 @@
 ### Welcome to GitHub Pages
 
-```You can use the [editor on GitHub](https://github.com/eortega21/eortega21.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-````
-
 My name is Edgar and this is my GitHub homepage.  Updates will be coming soon.
 
 
