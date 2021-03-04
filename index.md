@@ -1,4 +1,4 @@
-### Welcome to GitHub Pages
+### Welcome to my GitHub Page
 
 My name is Edgar and this is my GitHub homepage.  Updates will be coming soon.
 
@@ -6,8 +6,7 @@ My name is Edgar and this is my GitHub homepage.  Updates will be coming soon.
 ```markdown
 # Applied projects:
 
-- Bulleted
-- List
+- Currently in process...
 ```
 ### Support or Contact
 
