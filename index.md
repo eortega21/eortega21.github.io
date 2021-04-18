@@ -7,7 +7,7 @@ My name is Edgar and this is my GitHub homepage.  I am a currently working on my
 # Applied projects:
 
 - Student list app
-  + please check out my project submitted for my ePorfolio at: https://github.com/eortega21/portfolio
+  + please check out my project submitted for my ePorfolio [here](https://github.com/eortega21/portfolio)
 
 ### Support or Contact
 
