@@ -3,7 +3,6 @@
 My name is Edgar and this is my GitHub homepage.  I am a currently working on my BS focused on software engineering.  I am currently updating my ePorfolio and there will be more projects listed here to come!  Thank you for the for checking out my pages! More updates soon.
 
 
-```markdown
 # Applied projects:
 
 - Student list app
