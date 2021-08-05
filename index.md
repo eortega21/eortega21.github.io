@@ -6,7 +6,9 @@ My name is Edgar and this is my GitHub homepage.  I am a currently working on my
 # Applied projects:
 
 - Student list app
-  + please check out my project submitted for my ePorfolio [here](https://github.com/eortega21/portfolio)
+  + This project was created for my ePorfolio. This project contains a Login page where client has to log in to have access to the database.  If there is no login credentials, the user must register and wait for approval from admin to have access.  Once access the user is able to create, read, update and delete a students data.  The data comes from a database where it stores all the critical information.  This project was created using java. [here](https://github.com/eortega21/portfolio)
+- Partial Banking system.
+  + This project
 
 ### Support or Contact
 
