@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Page
 
-My name is Edgar and this is my GitHub homepage where I will be uploading some of my projects.  I currently obtained my BS focused on software engineering in may 2021 and will continue to learning and expanding my knowledge. If you would like to learn more about the projects created, please see below and the links will send you directly to the code.  Thank you for the for checking out my page.
+My name is Edgar and this is my GitHub homepage where I will be uploading some of my projects.  I currently obtained my BS focused on software engineering in may 2021 and will continue to learning and expanding my knowledge. If you would like to learn more about the projects created, please see below and the links will send you directly to the code.  Thank you for the for visiting my page.
 
 
 # Applied projects:
